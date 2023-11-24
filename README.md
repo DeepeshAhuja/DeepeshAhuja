@@ -5,7 +5,8 @@
 </h1>
 
 <div align=center>
-  <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width="400" alt="streak stats"/>
+  <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width="400px" alt="streak stats"/>
+  <img src="https://octodex.github.com/images/NUX_Octodex.gif" width="400px" alt="streak stats"/>
   <!-- <img src="https://octodex.github.com/images/ironcat.jpg" height="350px" width="350px" alt="streak stats"/> -->
 </div>
 
