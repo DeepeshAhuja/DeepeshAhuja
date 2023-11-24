@@ -4,6 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Deepesh+Ahuja!;" />
 </h1>
 
+<div align=center>
+  <img src="https://octodex.github.com/images/NUX_Octodex.gif" height="350px" width="350px" alt="streak stats"/>
+  <img src="https://octodex.github.com/images/ironcat.jpg" height="350px" width="350px" alt="streak stats"/>
+</div>
 
 <h3 align="center">A passionate software developer and Machine Learning enthusiast</h3>
 
