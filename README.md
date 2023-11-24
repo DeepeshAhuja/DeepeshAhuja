@@ -33,7 +33,7 @@
   <a href="https://www.linkedin.com/in/deepeshahuja/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://drive.google.com/file/d/17kEpges-v0L6qutw4cEy5cWzWIzMjkU2/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1Am3sUNM7kpfAAGe5k4QdUfUIshOP8MK1/view?usp=sharing" target="_blank">
      <img src="https://shields.io/badge/Resume-008ad3?style=for-the-badge&logoColor=white" target="_blank" />
   </a>
 </div>
