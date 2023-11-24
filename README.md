@@ -39,10 +39,28 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,vscode,html,css,bootstrap,javascript,git,github,flask" />
-    <img src="https://skillicons.dev/icons?i=mysql,postman,c,java,eclipse,pytorch" />
+    <img src="https://skillicons.dev/icons?i=mysql,postman,c,java,eclipse,pytorch,php,figma" />
     <img src="https://skillicons.dev/icons?i=linux,blender,raspberrypi" /><br>
 </div>
 
 <br/>
 <hr/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=DeepeshAhuja&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="streak stats"/><br/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=DeepeshAhuja&theme=dark&hide_border=false" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepeshAhuja&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+<br>
+<div >
+  <img width=390 src="https://github-profile-trophy.vercel.app/?username=DeepeshAhuja&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="streak stats"/>
+</div>
+
+<br/><br/>
