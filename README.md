@@ -20,7 +20,7 @@
  
  🌱 I’m currently learning **JavaScript, PHP, MachineLearning**
 
-💬 Ask me about **Python, Flask**
+💬 Ask me about **Python, Flask, Java, MySQL**
 
 📫 How to reach me: **deepesh.ahuja002@gmail.com**
 
