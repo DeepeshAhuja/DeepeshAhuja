@@ -17,6 +17,8 @@
 
 💬 Ask me about **Python, Flask**
 
+📫 How to reach me: **deepesh.ahuja002@gmail.com**
+
  </div>
 
 <div align="center"> 
@@ -30,4 +32,17 @@
      <img src="https://shields.io/badge/Resume-008ad3?style=for-the-badge&logoColor=white" target="_blank" />
   </a>
 </div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,vscode,html,css,bootstrap,javascript,git,github,flask" />
+    <img src="https://skillicons.dev/icons?i=mysql,postman,c,java,eclipse,pytorch" />
+    <img src="https://skillicons.dev/icons?i=linux,blender,raspberrypi" /><br>
+</div>
+
+<br/>
+<hr/>
 
