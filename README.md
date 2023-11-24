@@ -59,8 +59,8 @@
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <br>
-<div >
-  <img width=390 src="https://github-profile-trophy.vercel.app/?username=DeepeshAhuja&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="streak stats"/>
+<div align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=DeepeshAhuja&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="streak stats"/>
 </div>
 
 <br/><br/>
