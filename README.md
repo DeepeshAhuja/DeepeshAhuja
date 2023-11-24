@@ -6,7 +6,7 @@
 
 <div align=center>
   <img src="https://octodex.github.com/images/NUX_Octodex.gif" height="350px" width="350px" alt="streak stats"/>
-  <img src="https://octodex.github.com/images/ironcat.jpg" height="350px" width="350px" alt="streak stats"/>
+  <!-- <img src="https://octodex.github.com/images/ironcat.jpg" height="350px" width="350px" alt="streak stats"/> -->
 </div>
 
 <h3 align="center">A passionate software developer and Machine Learning enthusiast</h3>
