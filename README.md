@@ -1,3 +1,5 @@
+
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DeepeshAhuja.DeepeshAhuja" />
 
 <h1 align="center">
@@ -5,8 +7,7 @@
 </h1>
 
 <div align=center>
-  <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="300px" alt="streak stats"/>
-  <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="300px" alt="streak stats"/>
+  <img src="https://private-user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDA5MzU0OTUsIm5iZiI6MTcwMDkzNTE5NSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1NzktYzI4ODQ3MWMtYmU2Ny00ZmJiLWFmNDQtMWM2M2VlOWVkMjgwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTI1VDE3NTk1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBhMGY2NjFhY2JhMDE3ZDk2MzEwNThiMzE1ZjFmYzNhZmQxMmY2ZmZmZDFmNGFlMzBjMzZlMzU3NDQwNzI1ZWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.vydQfOT-Mirb-v1ZVH_7RdxFmnFfbOfcFwbrpXbPbCA" height="300" alt="streak stats"/>
   <!-- <img src="https://octodex.github.com/images/ironcat.jpg" height="350px" width="350px" alt="streak stats"/> -->
 </div>
 
