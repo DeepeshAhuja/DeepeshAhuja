@@ -38,7 +38,8 @@
   </a>
 </div>
 
- <hr/>
+ 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
  <h2 align="center">🏆 GitHub Trophies</h2>
 <br>
@@ -47,7 +48,8 @@
 </div>
 
 <br/>
-<hr/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -58,7 +60,8 @@
 </div>
 
 <br/>
-<hr/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -70,8 +73,12 @@
 </div>
 
 <br/><br/>
-<hr/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <div align=center>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="streak stats"/>
 </div>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
