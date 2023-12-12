@@ -18,7 +18,7 @@
  
  🔭 I’m currently working on **Audio or Text to Sign Language**
  
- 🌱 I’m currently learning **JavaScript, PHP, MachineLearning**
+ 🌱 I’m currently learning **JavaScript, Django, MachineLearning**
 
 💬 Ask me about **Python, Flask, Java, MySQL**
 
