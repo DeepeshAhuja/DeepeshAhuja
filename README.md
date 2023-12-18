@@ -7,15 +7,16 @@
 </h1>
 
 <div align=center>
-     <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" height="300" alt="streak stats"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" height="300" alt="streak stats"/>
   <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" height="300" alt="streak stats"/>
-</div> 
+</div>
 
 <h3 align="center">A passionate software developer and Machine Learning enthusiast</h3>
 
 <br/>
 
 <div align="center">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" height="200" alt="streak stats />
  
  🔭 I’m currently working on **Audio or Text to Sign Language**
  
