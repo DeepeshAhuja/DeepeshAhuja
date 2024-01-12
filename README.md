@@ -57,7 +57,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,vscode,html,css,bootstrap,javascript,git,github,flask" /><br/>
-    <img src="https://skillicons.dev/icons?i=mysql,postman,c,java,eclipse,pytorch,php,figma" /><br/>
+    <img src="https://skillicons.dev/icons?i=mysql,postman,c,java,eclipse,pytorch,django,figma" /><br/>
     <img src="https://skillicons.dev/icons?i=linux,blender,raspberrypi" /><br>
 </div>
 
